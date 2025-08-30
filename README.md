@@ -1,9 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=80&section=header"/>
 
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;🎓+CSBS+Pre-final+Year+Student;💻+Interested+in+UI/UX+Designing+%26+Frontend+Development;📚+Currently+Learning+Python+%26+React;🌱+Passionate+about+Software+Development" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=🎓+CSBS+Pre-final+Year+Student;💻+UI/UX+Designer+%26+Frontend+Developer;📚+Currently+Learning+Python+%26+React;🌱+Passionate+about+Software+Development" alt="Typing SVG" />
+</div>
+
+<!-- Profile Image / Illustration -->
+<img align="right" src="https://github.com/Sanjai-Magilan/readme-images/blob/main/Version%20control-bro%20(1).svg?raw=true" width="280"/>
+
 </div>
 
 <!-- Profile Image / Illustration -->
