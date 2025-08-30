@@ -1,10 +1,11 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=80&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=80&section=header"/>
 
 <!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=👋+Welcome+to+my+GitHub+Profile!;I'm+Moneesh+P+S;🎓+CSBS+Pre-final+Year+Student;💻+UI/UX+Designer+%26+Frontend+Developer;📚+Currently+Learning+Python+%26+React;🌱+Passionate+about+Software+Development" alt="Typing SVG" />
 </div>
+
 
 
 
